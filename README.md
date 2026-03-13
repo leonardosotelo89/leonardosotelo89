@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <!--
+create a repository using username as repository name
+will link the README.md to your profile 
+make sure it is public and with a README.md 
 **leonardosotelo89/leonardosotelo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

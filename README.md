@@ -1,4 +1,7 @@
 ## Hi there 👋
+create a repository using username as repository name
+will link the README.md to your profile 
+make sure it is public and with a README.md 
 
 <!--
 create a repository using username as repository name

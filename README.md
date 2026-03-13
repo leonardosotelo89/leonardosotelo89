@@ -4,13 +4,11 @@ will link the README.md to your profile
 make sure it is public and with a README.md 
 
 >[!note] 
->To create a new folder in a repository click “create a new file.” >Type your new folder's name in the area where you would write the >file name, and at the end of the file name type a “/” to initilize >it as a folder. After this you can create a new file in the >folder. could be a basic txt file to initilize the folder: >newFoldeName/newFile.txt
+>To create a new folder in a repository click “create a new file.” >Type your new folder's name in the area where you would write the file name, and at the end of the file name type a “/” to initilize >it as a folder. After this you can create a new file in the folder. could be a basic txt file to initilize the folder: >newFoldeName/newFile.txt
 
 
 <!--
-create a repository using username as repository name
-will link the README.md to your profile 
-make sure it is public and with a README.md 
+
 **leonardosotelo89/leonardosotelo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
